@@ -6,4 +6,5 @@ def reverse_list():
     print("Cписок у зворотньому напрямку:", A)
     return A
 
+
 reverse_list()

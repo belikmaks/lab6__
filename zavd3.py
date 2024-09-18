@@ -12,4 +12,5 @@ def search():
     print("Множина літер:", letter_set)
     print("Кількість розділових знаків:", punctuation_count)
 
+
 search()
