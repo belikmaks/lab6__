@@ -7,5 +7,4 @@ def delete():
     print("Cписок після видалення елементів з парними індексами:", result)
     return result
 
-
 delete()

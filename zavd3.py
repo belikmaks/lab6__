@@ -9,7 +9,7 @@ def search():
 
     punctuation_count = sum(1 for char in B if char in punctuation_marks)
 
- print("Множина літер:", letter_set)
+    print("Множина літер:", letter_set)
     print("Кількість розділових знаків:", punctuation_count)
 
 search()
